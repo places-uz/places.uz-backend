@@ -107,7 +107,7 @@ DATABASES = {
         'NAME': 'defaultdb',
         'USER': 'doadmin',
         'PASSWORD': 'AVNS_MlR2TjuTS5nGABIdD3j',
-        'HOST': 'db-postgresql-nyc1-60384-do-user-13146800-0.b.db.ondigitalocean.com',
+        'HOST': 'https://db-postgresql-nyc1-60384-do-user-13146800-0.b.db.ondigitalocean.com',
         'PORT': '25060',
     }
 }
